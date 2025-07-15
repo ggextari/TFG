@@ -1,4 +1,4 @@
-# 📊 Predicción de Recobro de Facturas Vencidas — TFG
+# Predicción de Recobro de Facturas Vencidas — TFG
 
 Este repositorio contiene el código y experimentos del Trabajo de Fin de Grado centrado en la **predicción de recobro de impagos mediante modelos de machine learning**, evaluando su implementación en **SAS Enterprise Miner** y **Databricks con Python**.
 
@@ -6,7 +6,7 @@ El objetivo principal fue replicar y comparar el rendimiento de distintos algori
 
 ---
 
-## 🔍 Comparativa de Modelos: Tabla 4.1
+## Comparativa de Modelos: Tabla 4.1
 
 | Modelo                        | Entorno       | Índice ROC | Comentario                                                                 |
 |------------------------------|---------------|------------|----------------------------------------------------------------------------|
@@ -18,7 +18,7 @@ El objetivo principal fue replicar y comparar el rendimiento de distintos algori
 
 ---
 
-## 📌 Conclusiones Clave
+## Conclusiones Clave
 
 - **Regresión Logística** es simple y explicativa, adecuada para entornos regulados o como modelo de referencia.
 - **XGBoost** alcanza un mejor rendimiento tras ajuste con Grid Search, manteniendo interpretabilidad con SHAP.
@@ -26,14 +26,14 @@ El objetivo principal fue replicar y comparar el rendimiento de distintos algori
 
 ---
 
-## 🧪 Entornos y Herramientas
+## Entornos y Herramientas
 
 - **SAS Enterprise Miner**: modelado inicial y análisis exploratorio.
 - **Databricks + Python**: preprocesamiento, ingeniería de variables y modelado con `scikit-learn`, `xgboost` y `MLflow`.
 
 ---
 
-## 📁 Estructura del repositorio
+## Estructura del repositorio
 
 - `2024-11-27_Regresión_Logística.ipynb`
 - `2024-12-05_XGBoost_ParametrosChurn.ipynb`
@@ -43,8 +43,8 @@ El objetivo principal fue replicar y comparar el rendimiento de distintos algori
 
 ---
 
-## 📫 Contacto
+## Contacto
 
-Autor: Sergio G.  
-Universidad: [Nombre de tu universidad]  
+Autora: Iratxe G. G.
+Universidad: Universidad de Oviedo  
 Proyecto: Trabajo de Fin de Grado - 2025 - Optimización Inteligente de Modelos Predictivos para Recobro y Churn
