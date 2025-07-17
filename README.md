@@ -35,11 +35,11 @@ El objetivo principal fue replicar y comparar el rendimiento de distintos algori
 
 ## Estructura del repositorio
 
-- `2024-11-27_Regresión_Logística.ipynb`
-- `2024-12-05_XGBoost_ParametrosChurn.ipynb`
-- `2025-01-17_CrearGraficoVariables.ipynb`
-- `TE_Codigo_Segmentacion_V4.ipynb`
-- `README.md`: descripción general y resumen de resultados
+- `logistic_regression.py`: implementación del modelo de regresión logística con validación cruzada y regularización.
+- `random_forest.py`: entrenamiento de Random Forest con control de hiperparámetros y visualización básica.
+- `decision_tree.py`: modelo simple de árbol de decisión, útil como baseline inicial.
+- `Recobro_XGBoost.py`: ejecución de XGBoost con Grid Search y ajuste del parámetro `scale_pos_weight`.
+- `README.md`: descripción general del proyecto y resumen de resultados.
 
 ---
 
